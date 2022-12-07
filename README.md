@@ -25,7 +25,7 @@ Deaths in the national parks: [Data Downloads](https://www.nps.gov/aboutus/foia/
 
 Endangered species: [Data Downloads](https://esa.npca.org/)
 
-List of the 63 national parks: [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States)
+List and info on the 63 national parks: [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States)
 
 ## Technologies Used
 * Python
