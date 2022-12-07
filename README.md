@@ -32,4 +32,4 @@ List and info on the 63 national parks: [Wikipedia](https://en.wikipedia.org/wik
 * Jupyter Notebooks
 
 ## Known Issues and Challenges
-The U.S. has 63 national parks, which is what I want to focus on. I know I’ll have to filter to data to return results for the title “National Park,” because there are also national monuments, national forests, preservations, seashores, etc. 
+The U.S. has 63 national parks, which is what I want to focus on. I know I’ll have to filter the data to return results for the title “National Park,” because there are also national monuments, national forests, preservations, seashores, etc. 
