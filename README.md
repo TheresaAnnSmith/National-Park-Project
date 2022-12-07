@@ -1,4 +1,4 @@
-# National-Park-Capstone
+# National-Park-Project
 My Nashville Software School Capstone 
 
 ## Table of contents
