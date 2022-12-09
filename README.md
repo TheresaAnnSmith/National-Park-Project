@@ -19,13 +19,13 @@ I have always loved national parks, and it’s my goal to visit all of them! Nat
 Which national parks average the most visitors? How (and how often) do people die in the national parks? Is there a correlation between the most popular parks and the parks with the most deaths? Is there a correlation between a park’s popularity the endangered animals it is home to?
 
 ## Data Sources
-National Park Service: [Visitor Stats](https://irma.nps.gov/STATS/Reports/Home)
+ * National Park Service: [Visitor Stats](https://irma.nps.gov/STATS/Reports/Home)
 
-Deaths in the national parks: [Data Downloads](https://www.nps.gov/aboutus/foia/foia-frd.htm)
+ * Deaths in the national parks: [Data Downloads](https://www.nps.gov/aboutus/foia/foia-frd.htm)
 
-Endangered species: [Data Downloads](https://esa.npca.org/)
+* Endangered species: [Data Downloads](https://esa.npca.org/)
 
-List and info on the 63 national parks, combination of scraping from [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States) and merging with an existing dataset from [Kaggle](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity?select=parks.csv)
+* Facts about the 63 national parks: a combination of webscraping from [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States) and merging with an existing dataset from [Kaggle](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity?select=parks.csv)
 
 ## Technologies Used
 * Python
