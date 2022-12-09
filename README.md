@@ -25,12 +25,13 @@ Deaths in the national parks: [Data Downloads](https://www.nps.gov/aboutus/foia/
 
 Endangered species: [Data Downloads](https://esa.npca.org/)
 
-List and info on the 63 national parks: [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States)
+List and info on the 63 national parks, combination of scraping from [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States) and merging with an existing dataset from [Kaggle](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity?select=parks.csv)
 
 ## Technologies Used
 * Python
 * Jupyter Notebooks
 * Excel
+* Tableau
 
 ## Known Issues and Challenges
 The U.S. has 63 national parks, which is what I want to focus on. I know I’ll have to filter the data to return results for the title "National Park," because there are also national monuments, national forests, preservations, seashores, etc.
