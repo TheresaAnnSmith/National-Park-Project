@@ -29,11 +29,11 @@ Which national parks average the most visitors? How (and how often) do people di
 
 ## Technologies Used
 * Python
-* Jupyter Notebooks
+ - Jupyter Notebooks
 * Excel
 * Tableau
 
 ## Known Issues and Challenges
 The U.S. has 63 national parks, which is what I want to focus on. I know I’ll have to filter the data to return results for the title "National Park," because there are also national monuments, national forests, preservations, seashores, etc.
 
-There are many nuances in the way parks are spelled and punctuated, i.e "&" vs. "and." A good example is "Gates of the Arctic National Park." There are extra spaces in that park name throughout some of my tables, so I'm going back through and making sure all the park names are a perfect match, so I can merge the tables and use "Park Name" as my primary key. 
+There are many nuances in the way parks are spelled and punctuated, i.e "&" vs. "and." A good example is "Gates of the Arctic National Park." There are extra spaces in that park name throughout some of my tables, so I'm going back through and making sure all the park names are a perfect match, so I can merge the tables and use "Park Name" as my primary key.
