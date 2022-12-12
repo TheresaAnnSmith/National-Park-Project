@@ -29,7 +29,7 @@ Which national parks average the most visitors? How (and how often) do people di
 
 ## Technologies Used
 * Python
- - Jupyter Notebooks
+  -Jupyter Notebooks
 * Excel
 * Tableau
 
