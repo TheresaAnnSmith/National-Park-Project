@@ -1,5 +1,5 @@
-# National-Park-Project
-My Nashville Software School Capstone
+# U.S. National Parks
+Exploring key aspects of our country's national parks.
 
 ## Table of contents
 * [Executive Summary](#executive-summary)
@@ -8,6 +8,7 @@ My Nashville Software School Capstone
 * [Data Sources](#data-sources)
 * [Technologies Used](#technologies-used)
 * [Known Issues and Challenges](#known-issues-and-challenges)
+* [Findings](#Findings)
 
 ## Executive Summary
 The U.S. is home to 63 national parks, and I want to provide an analysis on the key factors that make them great. The parks are beautiful, but they can also be treacherous. While visiting the parks is relatively safe, I want to look at how and how many deaths occur in the parks. The parks can be dangerous for humans, but they are sanctuaries for animals. Viewing wildlife is one of the main reasons people visit the parks, and I want to find out what role endangered species play in drawing visitors. I will look at the national parks from the perspective of “humans in danger…and animals endangered.”
@@ -37,3 +38,6 @@ Which national parks average the most visitors? How (and how often) do people di
 The U.S. has 63 national parks, which is what I want to focus on. I know I’ll have to filter the data to return results for the title "National Park," because there are also national monuments, national forests, preservations, seashores, etc.
 
 There are many nuances in the way parks are spelled and punctuated, i.e "&" vs. "and." A good example is "Gates of the Arctic National Park." There are extra spaces in that park name throughout some of my tables, so I'm going back through and making sure all the park names are a perfect match, so I can merge the tables and use "Park Name" as my primary key.
+
+## Findings
+Link to dashboard via Tableau Story: (coming soon)
